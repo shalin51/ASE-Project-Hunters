@@ -3,13 +3,15 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:\Program Files\Android\Android Studio2\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/sdk-common-1.30.0" />
+            <option value="$PROJECT_DIR$/sdk-commonwidget-1.30.0" />
+            <option value="$PROJECT_DIR$/sdk-videowidget-1.30.0" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
